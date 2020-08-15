@@ -142,3 +142,28 @@ View git log, file history, compare branches or commits.<br /><br />
 <img alt="githistory" src="githistory.png" style="width: 80%;" />
 
 <br />
+
+## 5. Themes & Folder Icon
+
+### ✍️ [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+Bring icons to your Visual Studio Code.<br /><br />
+<img alt="vs-icons" src="vs-icons.png" style="width: 80%;" />
+
+---
+
+### ✍️ [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
+<img alt="winter" src="winter.png" style="width: 80%;" />
+
+---
+
+### ✍️ [Eva Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme)
+
+<img alt="eva" src="eva.png" style="width: 80%;" />
+
+---
+
+### ✍️ [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+
+<img alt="owl" src="owl.png" style="width: 80%;" />
